@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+encoding : UTF-8
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Mathieu Bourdenx"
@@ -84,7 +86,7 @@ author:
   avatar           : "images/profile.png"
   bio              : "Postdoctoral Research at IMN"
   location         : "Bordeaux, FRANCE"
-  employer         : "Université de Bordeaux"
+  employer         : "Universite de Bordeaux"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=bourdenx+m&sort=pubdate"
   googlescholar    : "https://scholar.google.com/citations?user=9yk-Y8YAAAAJ&hl=fr"
   email            : "mathieu.bourdenx@u-bordeaux.fr
