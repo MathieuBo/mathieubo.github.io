@@ -34,7 +34,7 @@ staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
+c  filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mathieu Bourdenx"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Postdoctoral Research at IMN"
   location         : "Bordeaux, FRANCE"
   employer         : "Université de Bordeaux"
