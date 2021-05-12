@@ -82,8 +82,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mathieu Bourdenx"
-  avatar           : "images/profile.png"
+  name             : "Mathieu"
+  avatar           : "profile.png"
   bio              : "Postdoctoral Research at IMN"
   location         : "Bordeaux, FRANCE"
   employer         : "Universite de Bordeaux"
