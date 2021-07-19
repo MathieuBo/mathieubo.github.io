@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, University of Bordeaux (France), 2008-2010
+* B.S. in Computer Science, University of Besancon (France), 2009-2011
+* M.S. in Neuroscience and Neuropsychopharmacology, University of Bordeaux (France), 2010-2012
+* Ph.D in Neuroscience and Neuropsychopharmacology, University of Bordeaux (France), 2012-2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2021 - present. Junior Researcher at IMN, Bordeaux (France)
+* Jan. 2017 - Dec. 2020. Post-doctoral Researcher at Albert Einstein College of Medicine, New York (USA). Supervisor: Prof. Ana Maria Cuervo. 
+* Dec. 2015 - Dec. 2016. Post-doctoral Researcher at IMN, Bordeaux (France). Supervisors: Dr. Erwan Bezard and Dr. Benjamin Dehay.
+* Oct. 2012 - Dec. 2015. Ph.D traning at IMN, Bordeaux (France). Supervisors: Dr. Erwan Bezard and Dr. Benjamin Dehay.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+Grants & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Allocation Jeune Chercheur (January 2021) Fondation Alzheimer
+* Junior Investigator Neuroscience Research Award (June 2018) Albert Einstein College of Medicine
+* Philippe Foundation Grant (2017)
+* Fellow at the Tau Consortium Meeting – Rainwater Charitable Foundation (July 2017, July 2018)
+* Biology/Health University of Bordeaux Ph.D. award (July 2016)
+* Monique Ganier-Semancik award for Ph.D. award (April 2016)
+* SBCF travel fellowship to attend at the 44st Annual Meeting Society for Neuroscience, 15-19 November 2014, (Washington).
+* The Best Student Poster Award at 9th FENS satellite symposium: Multiple Mechanisms of Neurodegeneration and Progression, Baveno, Italy (July 2014)
+* Henry Sabourin fellowship January 2012 – June 2012 (Rotary Club, Bordeaux)
 
 Publications
 ======
@@ -42,18 +42,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Organizations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Chair of the Gordon Research Seminar on Autophagy in Stress Development and Disease (March 2020 -postponed to March 2022 due to Covid19)
+* Vice President of TEDxUniversitéDeBordeaux (2014)
+* Secretary of the Neuroscience in Bordeaux Association (Oct 2012 – Oct 2014).
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Animal models of neurodegenerative disorders. Second year of medical school, University of Bordeaux, Bordeaux, France.
+* Protein aggregation and Neurodegeneration. Long Island University, New York, USA.
+
+
