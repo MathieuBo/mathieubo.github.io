@@ -36,15 +36,11 @@ Grants & Awards
 * The Best Student Poster Award at 9th FENS satellite symposium: Multiple Mechanisms of Neurodegeneration and Progression, Baveno, Italy (July 2014)
 * Henry Sabourin fellowship January 2012 – June 2012 (Rotary Club, Bordeaux)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Organizations
 ======
-* Chair of the Gordon Research Seminar on Autophagy in Stress Development and Disease (March 2020 -postponed to March 2022 due to Covid19)
+* Chair of the [Gordon Research Seminar on Autophagy in Stress Development and Disease](https://www.grc.org/autophagy-in-stress-development-and-disease-grs-conference/2022/) (March 2020 -postponed to March 2022 due to Covid19)
 * Vice President of TEDxUniversitéDeBordeaux (2014)
 * Secretary of the Neuroscience in Bordeaux Association (Oct 2012 – Oct 2014).
   
