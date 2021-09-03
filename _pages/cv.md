@@ -41,6 +41,7 @@ Grants & Awards
 Organizations
 ======
 * Chair of the [Gordon Research Seminar on Autophagy in Stress Development and Disease](https://www.grc.org/autophagy-in-stress-development-and-disease-grs-conference/2022/) (March 2020 -postponed to March 2022 due to Covid19)
+* Co-organizer of the 13th annual [Advanced Scientific Programming in Python summer school](https://aspp.school/wiki/) (August 2021). 
 * Vice President of TEDxUniversitéDeBordeaux (2014)
 * Secretary of the Neuroscience in Bordeaux Association (Oct 2012 – Oct 2014).
   
