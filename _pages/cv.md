@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* Jan. 2021 - present. Junior Researcher at IMN, Bordeaux (France)
+* Jan. 2022 - present. Senior Research Fellow at [UKDRI](https://ukdri.ac.uk/) at University College London, London (United Kingdom)
+* Jan. 2021 - Dec. 2021. Junior Researcher at IMN, Bordeaux (France)
 * Jan. 2017 - Dec. 2020. Post-doctoral Researcher at Albert Einstein College of Medicine, New York (USA). Supervisor: Prof. Ana Maria Cuervo. 
 * Dec. 2015 - Dec. 2016. Post-doctoral Researcher at IMN, Bordeaux (France). Supervisors: Dr. Erwan Bezard and Dr. Benjamin Dehay.
 * Oct. 2012 - Dec. 2015. Ph.D traning at IMN, Bordeaux (France). Supervisors: Dr. Erwan Bezard and Dr. Benjamin Dehay.
@@ -26,6 +27,8 @@ Work experience
 
 Grants & Awards
 ======
+* Fondation Pilote (2021) Fondation Vaincre Alzheimer
+* Programme de recherche (2021) France Alzheimer (declined due to relocation to the UK)
 * Allocation Jeune Chercheur (January 2021) Fondation Alzheimer
 * Junior Investigator Neuroscience Research Award (June 2018) Albert Einstein College of Medicine
 * Philippe Foundation Grant (2017)
